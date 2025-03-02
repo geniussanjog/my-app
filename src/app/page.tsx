@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Click to Save and see your changes instantly.</li>
+          <li>Type and Save and see your changes instantly.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
